@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="game" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="first" source="未标题-1_png" x="50" y="250" height="360"/>
+	<e:Image id="second" source="未标题-1_png" x="460" y="250"/>
+	<e:Image id="third" source="未标题-1_png" x="870" y="250"/>
+	<e:Label id="timeLabel" text="" x="20" y="20" width="200" verticalAlign="middle" textAlign="center" height="30"/>
+	<e:Label id="stepsLabel" text="" x="240" y="20" width="120" height="30"/>
+</e:Skin>
